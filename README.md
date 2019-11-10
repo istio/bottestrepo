@@ -1,3 +1,3 @@
 # bottestrepo
-Used for testing the Istio bots
+Used for testing the Istio bots.
 
